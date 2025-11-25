@@ -1,11 +1,11 @@
 {
-    "name": "doctor_ai",
-    "short_name": "doctor_ai",
+    "name": "cowboy_rx",
+    "short_name": "cowboy_rx",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Doctor AI",
+    "description": "Cowboy RX",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
